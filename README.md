@@ -2,7 +2,7 @@
 
 I am Gan Hong Jian, currently in my final year, majoring in Software Systems Development at Tunku Abdul Rahman University College (TAR UC).
 
-- 🔭 I’m currently working on a small project which streamline the process of managing orders.
+- 🔭 I’m currently working on a small project which streamline the process of order management.
 - 🌱 I’m currently learning front-end framework (ReactJS) to integrate with back-end technology.
 - 👯 I’m looking to collaborate on .NET related projects which uses MVC design pattern.
 - 📫 How to reach me: hj@ganhj.dev
