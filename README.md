@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a small project which streamline the process of managing orders.
-👯 I’m looking to collaborate on .NET related projects which uses MVC design pattern.
+I am Gan Hong Jian, currently in my final year, majoring in Software Systems Development at Tunku Abdul Rahman University College (TAR UC).
+
+- 🔭 I’m currently working on a small project which streamline the process of managing orders.
+- 🌱 I’m currently learning front-end framework (ReactJS) to integrate with back-end technology.
+- 👯 I’m looking to collaborate on .NET related projects which uses MVC design pattern.
+- 📫 How to reach me: hj@ganhj.dev
 
 <!--
 **ganhj99/ganhj99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
