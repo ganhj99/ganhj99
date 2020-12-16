@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a small project which streamline the process of managing orders.
+👯 I’m looking to collaborate on .NET related projects which uses MVC design pattern.
+
 <!--
 **ganhj99/ganhj99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
